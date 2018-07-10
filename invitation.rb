@@ -3,7 +3,7 @@
 # Try starting out with puts'ing a string.
 puts "Dear #{name}"
 name = gets.chomp.capitalize
-puts ""
+puts "You've been invited to #{party_name}"
 
 
 
