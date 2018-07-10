@@ -2,7 +2,7 @@
 
 # Try starting out with puts'ing a string.
 puts "Hi, you've been invited to a party! What is your name?"
-puts "You've been invi
+puts "
 party_name = gets.chomp.capitalize
 
 
