@@ -14,4 +14,7 @@ host_name = gets.chomp.capitalize
 
 puts "Dear #{guest_name}"
 
-You are cordially
+puts "You are cordially invited to #{party_name} on #{date} at #{time}. Please RSVP no later than #{date}."
+
+puts "Sincerely, 
+#{host_name}"
