@@ -10,7 +10,7 @@ date = gets.chomp
 puts "What is the time?"
 time = gets.chomp
 puts "Who is the host?"
-host_name = gets.chomp.capitalize
+host_name = gets.chomp
 
 puts "Dear #{guest_name}"
 
